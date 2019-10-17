@@ -1,0 +1,18 @@
+.itemRoot {
+  margin-left: 50rpx;
+}
+
+.imgRoot {
+  margin-left: 40rpx;
+}
+
+.imgList {
+  display: inline-block;
+}
+
+.img {
+  margin: 5rpx;
+  position: relative;
+  width: 155rpx;
+  height: 155rpx;
+}
